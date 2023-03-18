@@ -1,5 +1,5 @@
 [ {
-"poster"https://cover.imglib.info/uploads/cover/wind-breaker/cover/RWDstYRkXMxO_250x350.jpg",
+"poster"jjfjf",
 "title":"Ветролом",
 "title_original":"Wind Breaker",
 "status":"Онгоинг",
