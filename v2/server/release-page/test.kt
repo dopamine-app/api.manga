@@ -9,6 +9,7 @@
 "status":"Онгоинг",
 "translate_status":"Шығуда",
 "chapter":"439",
+"unavailable":"null",
 "format":"В цвете",
 "author":"JO Yongseok",
 "artist":"JO Yongseok",
