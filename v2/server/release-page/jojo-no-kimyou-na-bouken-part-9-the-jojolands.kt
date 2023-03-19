@@ -9,7 +9,7 @@
 "status":"Онгоинг",
 "translate_status":"Жалғасуда",
 "chapter":"1",
-"play":"null",
+"player":"null",
 "format":"Қара/Ақ түсті",
 "author":"ARAKI Hirohiko",
 "artist":"ARAKI Hirohiko",
