@@ -15,5 +15,5 @@
 "artist":"ARAKI Hirohiko",
 "publisher":"Shueisha",
 "description":"",
-"id":"jojo-no-kimyou-na-bouken-part-9-the-jojolands.kt"
+"id":"jojo-no-kimyou-na-bouken-part-9-the-jojolands"
 } ]
